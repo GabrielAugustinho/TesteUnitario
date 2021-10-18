@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.Domain.dll
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.deps.json
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.dll
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\ref\Agenda.DAL.dll
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.pdb
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.Domain.pdb
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.dll
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\ref\Agenda.DAL.dll
+C:\Users\Usuario\Desktop\TestesUnitários\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.pdb

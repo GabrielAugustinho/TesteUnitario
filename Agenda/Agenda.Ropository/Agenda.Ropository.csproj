@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agenda.DAL\Agenda.DAL.csproj" />
+    <ProjectReference Include="..\Agenda.Domain\Agenda.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

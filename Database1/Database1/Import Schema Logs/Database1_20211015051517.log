@@ -1,0 +1,87 @@
+15/10/2021 14:15:17	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-O7UO27C' by user 'Usuario'.
+15/10/2021 14:15:17	Import of database schema has started.
+15/10/2021 14:15:28	Gathering database credentials
+15/10/2021 14:15:28	Gathering database options
+15/10/2021 14:15:28	Gathering generic database scoped configuration option
+15/10/2021 14:15:28	Gathering users
+15/10/2021 14:15:28	Gathering roles
+15/10/2021 14:15:28	Gathering application roles
+15/10/2021 14:15:28	Gathering role memberships
+15/10/2021 14:15:28	Gathering filegroups
+15/10/2021 14:15:28	Gathering files
+15/10/2021 14:15:28	Gathering full-text catalogs
+15/10/2021 14:15:28	Gathering assemblies
+15/10/2021 14:15:28	Gathering certificates
+15/10/2021 14:15:28	Gathering asymmetric keys
+15/10/2021 14:15:28	Gathering symmetric keys
+15/10/2021 14:15:28	Gathering encrypted symmetric keys
+15/10/2021 14:15:28	Gathering database encryption keys
+15/10/2021 14:15:28	Gathering schemas
+15/10/2021 14:15:28	Gathering XML schema collections
+15/10/2021 14:15:28	Gathering user-defined data types
+15/10/2021 14:15:28	Gathering user-defined types
+15/10/2021 14:15:28	Gathering table types
+15/10/2021 14:15:28	Gathering unique keys for table types
+15/10/2021 14:15:28	Gathering primary keys for table types
+15/10/2021 14:15:30	Gathering indexes for table types
+15/10/2021 14:15:30	Gathering check constraints for table types
+15/10/2021 14:15:30	Gathering default constraints for table types
+15/10/2021 14:15:30	Gathering partition functions
+15/10/2021 14:15:30	Gathering partition schemes
+15/10/2021 14:15:30	Gathering functions
+15/10/2021 14:15:30	Gathering encrypted functions
+15/10/2021 14:15:30	Gathering aggregates
+15/10/2021 14:15:30	Gathering procedures
+15/10/2021 14:15:30	Gathering encrypted procedures
+15/10/2021 14:15:30	Gathering tables
+15/10/2021 14:15:30	Gathering primary keys
+15/10/2021 14:15:30	Gathering unique constraints
+15/10/2021 14:15:30	Gathering foreign keys
+15/10/2021 14:15:30	Gathering default constraints
+15/10/2021 14:15:30	Gathering check constraints
+15/10/2021 14:15:30	Gathering views
+15/10/2021 14:15:30	Gathering encrypted views
+15/10/2021 14:15:30	Gathering indexes
+15/10/2021 14:15:30	Gathering statistics
+15/10/2021 14:15:30	Gathering full-text index stoplists
+15/10/2021 14:15:30	Gathering search property lists
+15/10/2021 14:15:30	Gathering search properties
+15/10/2021 14:15:30	Gathering full-text indexes
+15/10/2021 14:15:30	Gathering column store indexes
+15/10/2021 14:15:30	Gathering spatial indexes
+15/10/2021 14:15:30	Gathering XML indexes
+15/10/2021 14:15:31	Gathering Selective XML indexes
+15/10/2021 14:15:31	Gathering encrypted triggers
+15/10/2021 14:15:31	Gathering triggers
+15/10/2021 14:15:31	Gathering encrypted and clr ddl triggers
+15/10/2021 14:15:31	Gathering ddl triggers
+15/10/2021 14:15:31	Creating edge constraints
+15/10/2021 14:15:31	Gathering synonyms
+15/10/2021 14:15:31	Gathering defaults
+15/10/2021 14:15:31	Gathering data constraint uddt bindings
+15/10/2021 14:15:31	Gathering rules
+15/10/2021 14:15:31	Gathering data constraint uddt bindings
+15/10/2021 14:15:31	Gathering message types
+15/10/2021 14:15:31	Gathering queues
+15/10/2021 14:15:31	Gathering contracts
+15/10/2021 14:15:31	Gathering services
+15/10/2021 14:15:31	Gathering routes
+15/10/2021 14:15:31	Gathering event notifications
+15/10/2021 14:15:31	Gathering remote service bindings
+15/10/2021 14:15:31	Gathering broker priorities
+15/10/2021 14:15:31	Gathering database audit specifications
+15/10/2021 14:15:31	Gathering signatures
+15/10/2021 14:15:31	Gathering data compression options
+15/10/2021 14:15:31	Gathering sequence types
+15/10/2021 14:15:31	Gathering security policies
+15/10/2021 14:15:31	Gather column encryption keys
+15/10/2021 14:15:31	Gathering column master keys
+15/10/2021 14:15:31	Gathering external data sources
+15/10/2021 14:15:31	Gathering external file formats
+15/10/2021 14:15:31	Gathering external tables
+15/10/2021 14:15:31	Gathering extended properties
+15/10/2021 14:15:32	Scanning project for duplicate elements
+15/10/2021 14:15:32	Finished duplicate element processing
+15/10/2021 14:15:32	Finished importing database.
+15/10/2021 14:15:32	A summary of the import was saved to the following location: C:\Users\Usuario\Desktop\TestesUnitários\Database1\Database1\Import Schema Logs\Database1_20211015051517.log
+15/10/2021 14:15:32	Click Finish to continue...
